@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou Alexandro</h1>
 <h3 align="center">Desenvolvedor back-end no interior do estado de São Paulo</h3>
 
+<h4 align="center">Gosto de programar, adoro terminar um desenvolvimento e me sinto no céu quando o cliente diz 'você salvou a minha vida, era isso que eu precisava!'.</h4>
+
 - 🌱 Estou atualmente aprendendo **laravel e react-native**
 
 - Estou estudando os cursos do **ignite**
