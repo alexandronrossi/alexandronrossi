@@ -3,7 +3,7 @@
 
 <h4 align="center">Gosto de programar, adoro terminar um desenvolvimento e me sinto no céu quando o cliente diz 'você salvou a minha vida, era isso que eu precisava!'.</h4>
 
-- 🌱 Estou atualmente aprendendo **laravel e react-native**
+- 🌱 Estou atualmente aprendendo **laravel e reactJs**
 
 - Estou estudando os cursos do **ignite**
 
